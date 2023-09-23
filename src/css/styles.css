@@ -1,0 +1,13 @@
+
+@import "screen/main.css";
+@import "screen/community.css";
+
+.fa-house{
+    color:black;
+    font-size: 4vh;
+}
+.tohome{
+    position: absolute;
+    left: 4vw;
+    top:2vh;
+}
