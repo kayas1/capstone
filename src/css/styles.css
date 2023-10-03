@@ -1,6 +1,7 @@
 
 @import "screen/main.css";
 @import "screen/community.css";
+@import "screen/diag.css";
 
 .fa-house{
     color:black;
